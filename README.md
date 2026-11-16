@@ -2,13 +2,15 @@
 
 Reproducibility materials for *RefPace: Accelerating Reference-Based Visual Inspection While Preserving Decisions and Alarm Maps*.
 
-Download the [v1.0.0 artifact](https://github.com/Kane11378/RefPace/releases/tag/v1.0.0) and open the ZIP's `README.md`. The archive includes a CPU replay of the main reported results, source data for figures, and a GPU runner with setup and input instructions. The CPU replay uses recorded measurements. The GPU runner performs a fresh inference and timing run using separately obtained assets.
+Download the [v1.0.1 artifact](https://github.com/Kane11378/RefPace/releases/tag/v1.0.1) and open the ZIP's `README.md`. The archive includes a CPU replay of the main reported results, source data for figures, and a GPU runner with setup and input instructions. The CPU replay uses recorded measurements. The GPU runner performs a fresh inference and timing run using separately obtained assets.
 
-SHA-256 of `RefPace_reproducibility_candidate.zip`:
+SHA-256 of `RefPace_reproducibility_v1.0.1.zip`:
 
 ```text
 8e16627592baeee003aa47964e5e56b7f22dffbbc34add6ddbc840170019c719
 ```
+
+[Zenodo archive (version DOI)](https://doi.org/10.5281/zenodo.24284881)
 
 ## Third-party materials
 
